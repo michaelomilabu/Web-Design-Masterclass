@@ -1,0 +1,72 @@
+.bg-dark{
+    background-color: green !important;
+}
+#pic{
+    height:40px;
+}
+.jumbotron{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                  url("internet.jpg");
+    background-size: cover;
+    height:400px;     
+}
+.header{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color:white;
+}
+.lead{
+     font-size:1em;
+}
+.row{
+   color:black;
+}
+#about{
+    width:100%;
+}
+.card-header{
+    height:70px;
+}
+#instruct{
+    text-align: center;
+     font-family: 'Ubuntu', sans-serif;
+    color:rgb(116, 113, 113);
+    font-weight: 400;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.card-deck{
+    font-family: 'Ubuntu', sans-serif;
+}
+.list-group{
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+.border-cover{
+    display:flex;
+    justify-content: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.font{
+    color: rgb(94, 94, 233);
+    font-family: 'Ubuntu', sans-serif;
+    padding:10px; 
+    cursor: pointer;  
+}
+.footertext{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:0.8em;
+}
+.btn-group{
+     margin-bottom: 20px;
+}
+.input-group{
+    align-items: center;
+}
+
+
+
